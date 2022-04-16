@@ -5,7 +5,8 @@
     </head>
     <body>
         <tr>
-            <td rowspan=3 colspan = 3>Smartypants Studios</td>
+            <td>Smartypants Studios</td>
+            <td>Smartypants Studios</td>
         </tr>
     </body>
 </html>
